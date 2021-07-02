@@ -10,6 +10,6 @@ Para comprar un boleto de autobus este debe de seleccionar el tipo de autobus (E
 ![alt](Previews/animacion_autoReservar.gif)<br>
 
 En el menu de inicio se puede comprobar el estado de los autobuses y sus asientos (si ya han sido reservados o se encuentran libres).
-![alt](Previews/animacion_Verificar.gif)<br>
+![alt](Previews/animacion_autoVerificar.gif)<br>
 
 
